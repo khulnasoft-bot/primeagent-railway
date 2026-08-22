@@ -1,18 +1,18 @@
 ---
-title: Langinfra
-description: A Langinfra instance.
+title: PrimeAgent
+description: A PrimeAgent instance.
 tags:
-  - langinfra
+  - primeagent
   - python
 ---
 
-# Langinfra Example
+# PrimeAgent Example
 
-This example starts up a [Langinfra](https://github.com/khulnasoft/langinfra.git) instance.
+This example starts up a [PrimeAgent](https://github.com/khulnasoft/primeagent.git) instance.
 
 ## ✨ Features
 
-- Langinfra
+- PrimeAgent
 - Python 3
 
 ## 💁‍♀️ How to use
@@ -20,4 +20,4 @@ This example starts up a [Langinfra](https://github.com/khulnasoft/langinfra.git
 - Deploy using the button 👆
 - Clone locally and install packages with Pip using `pip install -r requirements.txt` or Poetry using `poetry install`
 - Connect to your project using `railway link`
-- Run locally using `langinfra`
+- Run locally using `primeagent`
